@@ -1,26 +1,24 @@
-# Infobyte_oasis_Task.2
+# INFOSIS_INFOBYTE
+java Programming internship
+# Number Guessing Game in Java
 
-# Java ATM Interface
+[![Java](https://img.shields.io/badge/language-Java-blue.svg)](https://www.java.com/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-![Java](https://img.shields.io/badge/language-Java-orange)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-Welcome to the Java ATM Interface repository! This project showcases a simple text-based ATM (Automated Teller Machine) interface implemented in Java. It provides a user-friendly interface for performing basic banking operations.
+Welcome to the Number Guessing Game in Java! This project is a simple interactive console game where players try to guess a randomly generated number between 1 and 100. Test your intuition and see how quickly you can guess the correct number.
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [How to Play](#how-to-play)
 - [Features](#features)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
 
+Follow these steps to get the Number Guessing Game up and running on your local machine.
+
 ### Prerequisites
 
-- Java Development Kit (JDK) installed on your machine.
-- A code editor or Integrated Development Environment (IDE) like Eclipse, IntelliJ IDEA, or Visual Studio Code.
-
-### Installation
-
+- Java Development Kit (JDK) installed. [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
